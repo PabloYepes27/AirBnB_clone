@@ -1,6 +1,6 @@
 #  AirBnB clone - Web static
 
-<img  width="521"  alt="image"  src="https://user-images.githubusercontent.com/53787841/86299550-29f40c80-bbc6-11ea-9e54-089ffdc7b4cf.png">
+<img  width="521"  alt="HBnB"  src="https://user-images.githubusercontent.com/53787841/86299550-29f40c80-bbc6-11ea-9e54-089ffdc7b4cf.png">
 
 ## Contents:open_file_folder:
 
@@ -26,7 +26,7 @@ For further information, click on the previous link.
 * create the HTML of your application
 * create template of each object
 
-<img width="701" alt="Airbnb Structure" src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2018/6/87c01524ada6080f40fc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20200709%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200709T223338Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=586de0120a92defba223a5a4606efebab05f7381f3016e8e860dbed2e0cb3f8d">
+<img width="701" alt="Airbnb Web Static" src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2018/6/87c01524ada6080f40fc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20200709%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200709T223338Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=586de0120a92defba223a5a4606efebab05f7381f3016e8e860dbed2e0cb3f8d">
 
 ---
 
