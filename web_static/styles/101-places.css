@@ -1,0 +1,106 @@
+.places {
+	/* Flexbox */
+	display: flex;
+    flex-wrap: wrap;
+	justify-content: center;
+}
+
+.places h1{
+	z-index: -1;
+	padding-left: 20px;
+	font-size: 30px;
+	flex: 0 1 100%;  
+	width: 100%
+}
+
+.places article{
+	z-index: -1;
+	width: 390px;
+	padding: 20px;
+	padding-top: 0;
+	margin: 20px;
+	border: 1px solid #FF5A5F;
+	border-radius: 4px;
+	/* Flexbox */
+	display: flex;
+	align-items: center;
+	justify-content: center;
+    flex-wrap: wrap;
+}
+
+.places article h2{
+	font-size: 30px;
+	width: 50%;
+	padding-left: 80px;
+}
+
+.places .price_by_night{
+	color: #FF5A5F;
+	border: 4px solid #FF5A5F;
+	border-radius: 100%;
+	min-width: 60px;
+	height: 60px;
+	font-size: 30px;
+	align-content: center;
+}
+
+.places .price_by_night p{
+	margin: 13px 0;
+}
+
+.places .information  {
+	width: 100%;
+    height: 80px;
+    border-top: #DDDDDD 1px solid;
+    border-bottom: #DDDDDD 1px solid;
+    padding-top: 10px;
+    /* Flexbox */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.places .information  div {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    height: 80px;
+}
+/* the absolute path doesn't work here */
+.max_guest {
+    background: url("../images/icon_group.png") top center;
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 100px;
+}
+.number_rooms {
+    background: url("../images/icon_bed.png") top center;
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 100px;
+}
+.number_bathrooms {
+    background: url("../images/icon_bath.png") top center;
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 100px;
+}
+
+.places .user{
+	width: 100%;
+}
+
+.places .user p{
+	margin-bottom: 0;
+}
+
+.places .description p{
+	margin-top: 5px;
+}
+
+/*
+block: hace que el comportamiento del elemento sea como un bloque.
+
+inline: el elemento se renderizará en línea con otros elementos.
+
+inline-block: el elemento tendrá un comportamiento mezcla entre los dos anteriores.
+*/
